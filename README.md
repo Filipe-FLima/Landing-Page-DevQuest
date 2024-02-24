@@ -5,7 +5,7 @@ O projeto tem como objetivo utilizar as liguagens HTML, CSS e JavaScript para a 
 A página tem como objetivo ser simples, interativa e responsiva.
 
 
-[<img src="./src/imagens/GTA animaçao.gif" alt="gif da tela inicial do projeto">](https://filipe2426.github.io/Landing-Page-DevQuest/)
+[<img src="./src/imagens/GTA 5 animaçao.gif" alt="gif da tela inicial do projeto">](https://filipe2426.github.io/Landing-Page-DevQuest/)
 
 ## Tecnolofias utilizadas:
 - HTML
